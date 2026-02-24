@@ -1,2 +1,4 @@
-# python-basics
-A collection of fundamental Python programs covering core concepts such as variables, loops, functions, and basic problem-solving.
+Project Title
+Description (what the project does)
+Technologies Used
+How to Run
